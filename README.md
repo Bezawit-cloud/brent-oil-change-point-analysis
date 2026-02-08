@@ -14,7 +14,7 @@ The Task 1 folder contains:
 | File Name                  | Description |
 |-----------------------------|-------------|
 | `data/events.csv`           | Structured dataset of 13 major geopolitical, economic, and OPEC events affecting Brent oil prices |
-| `Task1_Analysis_Foundation.pdf` | 1–2 page document outlining the data analysis workflow, assumptions, limitations, and model understanding |
+| `Task1_Brent_Oil_Analysis_Foundation.pdf` | 1–2 page document outlining the data analysis workflow, assumptions, limitations, and model understanding |
 
 ---
 
